@@ -1,4 +1,4 @@
-package hm.moe.heignamerican.jerseysandbox;
+package hm.moe.heignamerican.jerseysandbox.resources;
 
 import javax.ws.rs.Consumes;
 import javax.ws.rs.GET;
